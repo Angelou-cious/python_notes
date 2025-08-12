@@ -9,6 +9,15 @@
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
     "cSpell.words": [
-        "Fourty"
+        "defaultdict",
+        "docstrings",
+        "DUNDER",
+        "Fourty",
+        "fromkeys",
+        "isinstance",
+        "issubclass",
+        "mydb",
+        "popitem",
+        "setdefault"
     ]
 }
